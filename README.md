@@ -1,6 +1,10 @@
 # [Project name]
 Repository template for private projects
 
+
+Skkeet yeet Kommmer github til å stoppe non-linear history?
+
+
 # Contributing
 
 ## Workflow
