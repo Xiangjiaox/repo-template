@@ -41,3 +41,6 @@ An optional `scope` can be added for further context, e.g `fix(server): misspell
 	- Check if build is failing.
 	- Incorporate feedback.
 5. Squash & rebase.
+
+
+Test
